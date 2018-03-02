@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5a990c62bde8d75fdcfdc852"},"id":"1","name":"Good Will Hunting Book","price":"30","createdAt":"27/2/2018","updatedAt":"27/2/2018","seller":"aly"}
+{"_id":{"$oid":"5a990c74bde8d75fdcfdc853"},"id":"2","name":"Berserk Manga","price":"45","createdAt":"1/3/2018","updatedAt":"1/3/2018","seller":"aly"}
+{"_id":{"$oid":"5a990c85bde8d75fdcfdc854"},"id":"3","name":"Steins Gate Visual Novel","price":"35","createdAt":"1/3/2018","updatedAt":"1/3/2018","seller":"aly"}
+{"_id":{"$oid":"5a990c96bde8d75fdcfdc855"},"id":"4","name":"Ghost in the shell","price":"50","createdAt":"1/3/2018","updatedAt":"1/3/2018","seller":"aly"}
+{"_id":{"$oid":"5a990ddabde8d75fdcfdc856"},"id":"5","name":"JoJo's Bizzare Adventure","price":"60","createdAt":"1/3/2018","updatedAt":"1/3/2018","seller":"aly"}
